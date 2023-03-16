@@ -1,5 +1,10 @@
-### Hi there 👋
 
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/108547192?s=400&u=a6f7cc0e7b3ed82bdf076a89b8ede00db806ba00&v=4" />
+   <h3 align="center">Hola Mundo. ¡Soy Farut Nahuel! (Farutnen) 👋👨🏻‍💻</h3>
+</p>
+## Soy diseñador Multimedial, especializado en Desarrollo Web. En mis tiempos libres Diseño posters de estilo película y hago dibujos en photoshop. Al ser multididáctico, me inscribí al Diseño multimedial para poder desarrollar mis conocimientos de una forma más artística y profesional. Elegí Da Vinci por destacarse en ser pioneros en esta rama y ahí encontré a mis compañeros de curso que hoy en día somos socios de una productora.
+Amo muchísimo Diseñar y realizar grandes proyectos de producción audiovisual, pero lo que más me deja satisfecho es disfrutar del resultado final, y observar los detalles a los que le dedico.
 <!--
 **farutnen/farutnen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
