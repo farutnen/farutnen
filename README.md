@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-   <img align="center" width="200" src="[https://avatars.githubusercontent.com/u/108547192?s=400&u=a6f7cc0e7b3ed82bdf076a89b8ede00db806ba00&v=4](https://raw.githubusercontent.com/farutnen/assets/main/portada_.jpg)" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/108547192?s=400&u=a6f7cc0e7b3ed82bdf076a89b8ede00db806ba00&v=4](https://raw.githubusercontent.com/farutnen/assets/main/portada_.jpg" />
    <h2 align="center">Hola Mundo. ¡Soy Farut Nahuel! (Farutnen) 👋👨🏻‍💻</h2>
 </p>
  <h3 align="center"> Diseñador Multimedial, especializado en Desarrollo Web.</h3>
